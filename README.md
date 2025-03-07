@@ -1,4 +1,4 @@
-Welcome to my Python training scripts! These scripts are designed to help beginners get started with Python programming by walking them through the fundamentals of the language. Whether you're just starting or looking to reinforce your knowledge, these scripts will provide hands-on practice with key concepts.
+Welcome to my **Python training scripts!** These scripts are designed to help beginners get started with Python programming by walking them through the fundamentals of the language. Whether you're just starting or looking to reinforce your knowledge, these scripts will provide hands-on practice with key concepts.
 
 The training covers topics such as:
 
