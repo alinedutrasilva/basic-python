@@ -3,3 +3,5 @@ d = n*2
 t = n*3
 r = n**(1/2)
 print('The number is {}' '\n' 'The double is {}' '\n' 'The triple is {}' '\n' 'The square is {}'.format(n, d, t, r))
+
+# r = pow(n, (1/2))
