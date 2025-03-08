@@ -1,4 +1,4 @@
-n = int(input('Qual o numero? '))
+n = int(input('What is the number? '))
 a = n-1
 su = n+1
-print('O numero eh {}' '\n' 'O antecessor eh {}' '\n' 'O sucessor eh {} '.format(n, a, su))
+print('The number is {}' '\n' 'The antecessor is {}' '\n' 'The successor is {} '.format(n, a, su))

@@ -1,5 +1,5 @@
-n = int(input('Qual o numero? '))
+n = int(input('What is the number? '))
 d = n*2
 t = n*3
 r = n**(1/2)
-print('O numero eh {}' '\n' 'O dobro eh {}' '\n' 'O triplo eh {}' '\n' 'A raiz quadrada eh {}'.format(n, d, t, r))
+print('The number is {}' '\n' 'The double is {}' '\n' 'The triple is {}' '\n' 'The square is {}'.format(n, d, t, r))
