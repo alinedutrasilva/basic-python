@@ -10,7 +10,7 @@ t8 = n*8
 t9 = n*9
 t10 = n*10
 print('The number is: '.format(n))
-print('The Multiplication table is: ')
+print('The Multiplication table for', n, 'is: ')
 print('Number', n, 'x 1 eh {}'.format(t1))
 print('Number', n, 'x 2 eh {}'.format(t2))
 print('Number', n, 'x 3 eh {}'.format(t3))
