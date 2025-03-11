@@ -24,7 +24,7 @@ print(n,'x  9 = {}'.format(t9))
 print(n,'x 10 = {}'.format(t10))
 print('------------------')
 
-# Alternative:
+# Alternative 1:
 # n = int(input('What is the number? '))
 # print('-' * 12)
 # print('{} x {:2} = {}'.format(n, 1, n*1))

@@ -7,4 +7,5 @@ print('Side 2 is {}m'.format(a2))
 print('The area is {}m2'.format(at))
 print('You will need {}liters of paint to paint this whole wall.'.format(t))
 
+# Consideration 1:
 # 1 liter of paint = 2m2

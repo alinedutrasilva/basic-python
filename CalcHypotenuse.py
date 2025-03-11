@@ -5,7 +5,10 @@ h = math.hypot(co, ca)
 print('The hypotenuse is {:.3f}'.format(h))
 
 # Alternative 1:
+# import math
+# co = float(input('Type side of right triangle: '))
 # h = (co ** 2 + ca ** 2) ** (1/2)
+# print('The hypotenuse is {:.3f}'.format(h))
 
 # Alternative 2:
 # from math import hypot

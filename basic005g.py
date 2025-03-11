@@ -3,4 +3,5 @@ d = n / 3.27
 print('You have then R$', n)
 print('You can exchange for this amount of dollars $', d)
 
+# Consideration 1:
 # US$1,00 = R$3,27
