@@ -1,4 +1,4 @@
-name = input('What is your full name?')
+name = str(input('What is your full name?')).strip()
 s = name.split()
 p = s[0]
 u = s[-1]
