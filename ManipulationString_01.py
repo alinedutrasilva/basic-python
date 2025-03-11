@@ -14,4 +14,4 @@ Your first name contains {} letters.""".format(m, n, len(name) - name.count(' ')
 # print("""Your full name in capslock is: {}
 # Your full name with capslock off is: {}
 # Your full name contains {} letters.""".format(m, n, len(name) - name.count(' '))
-# print("""Your first name is {} contains {} letters.""".format(d[]0, len(d[0]))
+# print("""Your first name is {} contains {} letters.""".format(d[0], len(d[0]))

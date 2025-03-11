@@ -1,5 +1,9 @@
-n1 = input('What is the number between 0 to 9999?')
-print("""Unit: {}
-Ten: {}
-Hundred: {}
-Thousand: {}""".format(n1[3], n1[2], n1[1], n1[0]))
+n1 = int(input('Qual o numero de 0 a 9999?'))
+u = n1 // 1 % 10
+d = n1 // 10 % 10
+c = n1 // 100 % 10
+m = n1 // 1000 % 10
+print("""Unidade: {}
+Dezena: {}
+Centena: {}
+Milhar: {}""".format(u, d, c, m))
